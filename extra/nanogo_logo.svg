@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="470"
+   height="158.02367"
+   viewBox="0 0 470 158.02367"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient36">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0"
+         id="stop36" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:0;"
+         offset="1"
+         id="stop37" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient34">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop34" />
+      <stop
+         style="stop-color:#008000;stop-opacity:0;"
+         offset="1"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient30">
+      <stop
+         style="stop-color:#550000;stop-opacity:1;"
+         offset="0"
+         id="stop30" />
+      <stop
+         style="stop-color:#550000;stop-opacity:0;"
+         offset="1"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient30"
+       id="linearGradient31"
+       x1="25.944611"
+       y1="178.33568"
+       x2="513.58112"
+       y2="177.14191"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2,0,-195)" />
+    <linearGradient
+       xlink:href="#linearGradient34"
+       id="linearGradient35"
+       x1="222.31929"
+       y1="185.26106"
+       x2="571.61536"
+       y2="188.01389"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2,0,-195)" />
+    <linearGradient
+       xlink:href="#linearGradient36"
+       id="linearGradient37"
+       x1="138.81242"
+       y1="182.25"
+       x2="541.14233"
+       y2="183.31461"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2,0,-195)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-24.999996,-68.496597)">
+    <rect
+       style="fill:url(#linearGradient31);fill-opacity:1;stroke-width:0.590013"
+       id="rect25"
+       width="470"
+       height="5"
+       x="25"
+       y="159" />
+    <rect
+       style="fill:url(#linearGradient37);stroke-width:0.590013"
+       id="rect25-7"
+       width="470"
+       height="5"
+       x="25"
+       y="167" />
+    <rect
+       style="fill:url(#linearGradient35);stroke-width:0.590013"
+       id="rect25-6"
+       width="470"
+       height="5"
+       x="25"
+       y="175" />
+    <text
+       xml:space="preserve"
+       style="letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1"
+       x="261.43265"
+       y="151.99269"
+       id="text1"><tspan
+         x="261.43265"
+         y="151.99269"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1">Nano<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1"
+   id="tspan25">GO</tspan></tspan><tspan
+         x="261.43265"
+         y="209.75087"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1"
+         id="tspan4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:46.6667px;text-align:center;letter-spacing:-2.5px;text-anchor:middle;fill:#1a1a1a"
+       x="258.20004"
+       y="217.13223"
+       id="text24"><tspan
+         id="tspan24"
+         x="256.95004"
+         y="217.13223"
+         style="letter-spacing:-2.5px;fill:#1a1a1a">Bioinformatics Pipeline</tspan></text>
+  </g>
+</svg>
