@@ -1,7 +1,7 @@
 <table align="center" style="margin: 0px auto;">
   <tr>
     <td>
-      <img src="https://git.genomicops.cloud/gosahan/nanogo/raw/branch/main/extra/nanogo_logo.svg" alt="NanoGo Logo" width="400" height="auto"/>
+      <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/nanogo_logo.svg" alt="NanoGo Logo" width="400" height="auto"/>
     </td>
     <td>
       <h1>Nanopore Genome Optimization Bioinformatics Pipeline</h1>
@@ -27,13 +27,13 @@
     <!-- First row with images -->
     <tr>
         <td>
-            <a href="https://anaconda.org/gosahan/nanogo">
-                <img src="https://git.genomicops.cloud/gosahan/nanogo/raw/branch/main/extra/brave_jJ2pJG0u1c.gif" alt="NanoGO QC Summary Report" height="auto" width="500"/>
+            <a href="https://github.com/phac-nml/nanogo/blob/main/extra/brave_jJ2pJG0u1c-ezgif.com-resize.gif">
+                <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/brave_jJ2pJG0u1c-ezgif.com-resize.gif" alt="NanoGO QC Summary Report" height="auto" width="500"/>
             </a>
         </td>
         <td>
-            <a href="https://anaconda.org/gosahan/nanogo">
-                <img src="https://git.genomicops.cloud/gosahan/nanogo/raw/branch/main/extra/cmd_xxQZGCLvlP.gif" alt="NanoGO tool in Action" height="auto" width="500"/>
+            <a href="https://github.com/phac-nml/nanogo/blob/main/extra/cmd_xxQZGCLvlP.gif">
+                <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/cmd_xxQZGCLvlP.gif" alt="NanoGO tool in Action" height="auto" width="500"/>
             </a>
         </td>
     </tr>
@@ -43,8 +43,8 @@
     </tr>
     <tr>
         <td colspan="2">
-            <a href="https://anaconda.org/gosahan/nanogo">
-                <img src="https://git.genomicops.cloud/gosahan/nanogo/raw/branch/main/extra/Code_eWv9WVcoX8.gif" alt="NanoGO Progress Bar" height="auto" width="auto"/>
+            <a href="https://anaconda.org/gosahan/nanogo/Code_eWv9WVcoX8.gif">
+                <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/Code_eWv9WVcoX8.gif" alt="NanoGO Progress Bar" height="auto" width="auto"/>
             </a>
         </td>
     </tr>
@@ -68,7 +68,7 @@ conda create -n nanogo-0.3.6 "python=3.10" -y && conda activate nanogo-0.3.6 && 
 ```
 
 <p align="center">
-  <a href=""><img src="https://git.genomicops.cloud/gosahan/nanogo/raw/branch/main/extra/cmd_j3T8dUwunM.gif" alt="NanoGO Install Instructions"  height="auto" width="1000"/></a>
+  <a href="https://github.com/phac-nml/nanogo/main/extra/cmd_j3T8dUwunM.gif"><img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/cmd_j3T8dUwunM.gif" alt="NanoGO Install Instructions"  height="auto" width="1000"/></a>
 </p>
 
 ### If quick installation does not work then follow the instructions below
