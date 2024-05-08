@@ -28,12 +28,12 @@
     <tr>
         <td>
             <a href="https://github.com/phac-nml/nanogo/blob/main/extra/brave_jJ2pJG0u1c-ezgif.com-resize.gif">
-                <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/brave_jJ2pJG0u1c-ezgif.com-resize.gif" alt="NanoGO QC Summary Report" height="auto" width="500"/>
+                <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/brave_jJ2pJG0u1c-ezgif.com-resize.gif" alt="NanoGO QC Summary Report" height="auto" width="350"/>
             </a>
         </td>
         <td>
             <a href="https://github.com/phac-nml/nanogo/blob/main/extra/cmd_xxQZGCLvlP.gif">
-                <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/cmd_xxQZGCLvlP.gif" alt="NanoGO tool in Action" height="auto" width="500"/>
+                <img src="https://raw.githubusercontent.com/phac-nml/nanogo/main/extra/cmd_xxQZGCLvlP.gif" alt="NanoGO tool in Action" height="auto" width="350"/>
             </a>
         </td>
     </tr>
