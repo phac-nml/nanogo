@@ -8,10 +8,10 @@
 <a href="https://anaconda.org/gosahan/nanogo">
   <img src="https://anaconda.org/gosahan/nanogo/badges/version.svg" alt="NanoGo on Anaconda"/>
 </a>
-<a href="">
+<a href="https://anaconda.org/gosahan/nanogo">
   <img src="https://anaconda.org/gosahan/nanogo/badges/platforms.svg"/>        
 </a>
-<a href="">
+<a href="https://anaconda.org/gosahan/nanogo">
   <img src="https://anaconda.org/gosahan/nanogo/badges/latest_release_date.svg"/>        
 </a>
     </td>
@@ -64,7 +64,7 @@ Designed for efficient parallel processing and enhanced by interactive input and
 Use the following command to install NanoGO:
 
 ```bash
-conda create -n nanogo-0.3.6 "python=3.10" -y && conda activate nanogo-0.3.6 && conda install -c gosahan nanogo -y
+conda create -n nanogo-0.3.7 "python=3.10" -y && conda activate nanogo-0.3.7 && conda install -c gosahan nanogo -y
 ```
 
 <p align="center">
@@ -73,7 +73,7 @@ conda create -n nanogo-0.3.6 "python=3.10" -y && conda activate nanogo-0.3.6 && 
 
 ### If quick installation does not work then follow the instructions below
 
-- <env_name> specify you conda environment name in which to install NanoGO. For example, <env_name> can be ```conda create -n nanogo-0.3.6 "python=3.10"```
+- <env_name> specify you conda environment name in which to install NanoGO. For example, <env_name> can be ```conda create -n nanogo-0.3.7 "python=3.10"```
 
 ```bash
 conda create -n <env_name> "python=3.10"
